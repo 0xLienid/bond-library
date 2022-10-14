@@ -121,7 +121,7 @@ const ADDRESSES = [
   },
   {
     chainId: CHAIN_ID.ETHEREUM_MAINNET,
-    address: "0x73D7e4BDdEcAd7379d679e60f22788E501493896",
+    address: "0x0cf30dc0d48604A301dF8010cdc028C055336b2E",
     protocol: PROTOCOL_NAMES.OLYMPUS_DAO,
   },
   {
